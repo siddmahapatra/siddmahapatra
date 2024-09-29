@@ -1,6 +1,6 @@
 ## 👋 Hey,  I am Siddhartha Mahapatra
 
-🌱 I’m currently learning Web Development<br>👀 I'm interested in Cricket, Photography & New Web Domains
+🌱 I’m currently learning Web Development<br>👀 I'm interested in Cricket, Photography & New Web Domains<br>📫How to reach me: siddharthamahapatra.work@gmail.com<br>📄Know more about my experience: https://drive.google.com/file/d/1R_CqRZA1LAJQY_GSlwK2d7pmKeRY_RoE/view?usp=sharing
 
 
 ## 🌐 Socials:
