@@ -6,7 +6,7 @@
 - 📄Know more about my experience: <link>https://drive.google.com/file/d/1R_CqRZA1LAJQY_GSlwK2d7pmKeRY_RoE/view?usp=sharing
 
 
-## 🌐 Socials:
+## 🌐 Connect wtih me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddmahapatra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthamahapatra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sidddmahapatra) 
 
 
