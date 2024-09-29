@@ -1,9 +1,12 @@
-## 👋 Hey,  I am Siddhartha Mahapatra
+<h1> 👋 Hey,  I am Siddhartha Mahapatra </h1>
 
-🌱 I’m currently learning Web Development<br>👀 I'm interested in Cricket, Photography & New Web Domains<br>📫How to reach me: siddharthamahapatra.work@gmail.com<br>📄Know more about my experience: https://drive.google.com/file/d/1R_CqRZA1LAJQY_GSlwK2d7pmKeRY_RoE/view?usp=sharing
+- 🌱 I’m currently learning Web Development
+- 👀 I'm interested in Cricket, Photography & New Web Domains
+- 📫How to reach me: <link>siddharthamahapatra.work@gmail.com</link>
+- 📄Know more about my experience: <link>https://drive.google.com/file/d/1R_CqRZA1LAJQY_GSlwK2d7pmKeRY_RoE/view?usp=sharing
 
 
-## 🌐 Socials:
+<h2> 🌐 Connect with me: </h2>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddmahapatra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthamahapatra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sidddmahapatra) 
 
 # 💻 Tech Stack:
