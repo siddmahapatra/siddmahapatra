@@ -1,4 +1,4 @@
-👋 Hey,  I am Siddhartha Mahapatra
+## 👋 Hey,  I am Siddhartha Mahapatra
 
 # 💫 About Me:
 🌱 I’m currently learning Web Development<br>👀 I'm interested in Cricket, Photography & New Technologies
